@@ -98,4 +98,4 @@ Update 19#\n
 -Disabled Items (Icemourne and Scythe) now work\n
 \n
 Join my Steamgroup to get updates faster!\n
-http://steamcommunity.com/groups/Infinest\n
+http://steamcommunity.com/groups/Infinest
