@@ -90,12 +90,8 @@ Middle Mousebutton (hold) Walk trough walls\n
 For projectile ids, tile ids, prefix ids go here:\n
 terraria.gamepedia.com/Data_IDs\n
 \n
-Update 19#\n
--The minimap will now display players no matter if they or you are in pvp\n
--Red's Wings will now work with boots\n
--Added fullbright support to all lightingmodes\n
--Debuffs can now be removed by rightclicking their icons under the itembar just like buffs\n
--Disabled Items (Icemourne and Scythe) now work\n
+Update 20.1#\n
+-Readded something i forgot top put into 20#\n
 \n
 Join my Steamgroup to get updates faster!\n
 http://steamcommunity.com/groups/Infinest
