@@ -90,8 +90,10 @@ Middle Mousebutton (hold) Walk trough walls\n
 For projectile ids, tile ids, prefix ids go here:\n
 terraria.gamepedia.com/Data_IDs\n
 \n
-Update 20.1#\n
--Readded something i forgot top put into 20#\n
+Update 20.2#\n
+-Added a new Spritefont\n
+-Added a better chat\n
+-Fixed Packetcode\n
 \n
 Join my Steamgroup to get updates faster!\n
 http://steamcommunity.com/groups/Infinest
