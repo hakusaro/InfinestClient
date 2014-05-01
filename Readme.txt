@@ -47,6 +47,7 @@
 .info shows time, depth and compass\n
 .kb [value] sets the knockback of the currently selected item\n
 .copy [playerid] copies the look of another player (characterdesign,armor slot,vanity slot)\n
+.acopy [playerid] copies accessories of another player (normal and vanity ones)\n
 .place [tileid] place custom tiles by pressing ctrl (only works in singleplayer and vanillaservers)\n
 .give [item name/item id] [count] this simple gives you as many of the specified item  as you want\n
 .time [time] this sets the time ( does not work with AM/PM  use the european timedisplay. for example 23.20 would be 11.20 PM)\n
@@ -90,10 +91,10 @@ Middle Mousebutton (hold) Walk trough walls\n
 For projectile ids, tile ids, prefix ids go here:\n
 terraria.gamepedia.com/Data_IDs\n
 \n
-Update 20.2#\n
--Added a new Spritefont\n
--Added a better chat\n
--Fixed Packetcode\n
+Update 20.3#\n
+-Added .acopy (copies players accessories)\n
+-Added an option to enable/disable the old chat in the Infinest Settings menu\n
+-Fixed various UpdatePlayer loops to make them more efficient\n
 \n
 Join my Steamgroup to get updates faster!\n
 http://steamcommunity.com/groups/Infinest
