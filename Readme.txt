@@ -91,10 +91,9 @@ Middle Mousebutton (hold) Walk trough walls\n
 For projectile ids, tile ids, prefix ids go here:\n
 terraria.gamepedia.com/Data_IDs\n
 \n
-Update 20.3#\n
--Added .acopy (copies players accessories)\n
--Added an option to enable/disable the old chat in the Infinest Settings menu\n
--Fixed various UpdatePlayer loops to make them more efficient\n
+Update 21#\n
+-Just updated to 1.2.4.1 for now (kinda busy so i'll try adding stuff later)\n
+If you find any bugs please tell me\n
 \n
 Join my Steamgroup to get updates faster!\n
 http://steamcommunity.com/groups/Infinest
